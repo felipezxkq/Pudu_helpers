@@ -1,0 +1,282 @@
+{
+    "products": [
+        {"food_name_en" : "milk",
+        "food_name_es" : "leche",  
+        "carbon_footprint" : "3",
+        "water_usage" : "628",
+        "land_usage" : "9",
+        "comments_en" : "methane production from cows means dairy milk has significantly higher emissions than plant-based milks.",
+        "comments_es" : "La producción de metano de las vacas significa que la leche de vaca tiene emisiones significativamente más altas que las leches de origen vegetal.",
+        "source" : "https://www.visualcapitalist.com/visualising-the-greenhouse-gas-impact-of-each-food/",
+        "produced_per_footprint" : "1 lt" 
+        },
+
+        {"food_name_en" : "cheese",
+        "food_name_es" : "queso",
+        "carbon_footprint" : "21",
+        "produced_per_footprint" : "1 kg"
+        }, 
+
+        {"food_name_en" : "lamb",
+        "food_name_es" : "carne de cordero",
+        "carbon_footprint" : "24",
+        "produced_per_footprint" : "1 kg"
+        }, 
+
+        {"food_name_en" : "chocolate",
+        "food_name_es" : "chocolate",
+        "carbon_footprint" : "19",
+        "produced_per_footprint" : "1 kg"
+        }, 
+
+        {"food_name_en" : "coffee",
+        "food_name_es" : "café",
+        "carbon_footprint" : "17",
+        "produced_per_footprint" : "1 kg",
+        "water_usage" : "15000"
+        }, 
+
+        {"food_name_en" : "pork",
+        "food_name_es" : "carne de cerdo",
+        "carbon_footprint" : "7",
+        "produced_per_footprint" : "1 kg",
+        "comment_en" : "pigs are non-ruminant livestock, so they do not produce methane, they have significantly lower emissions than beef and lamb.",
+        "comment_es" : "los cerdos son ganado no rumiante, por lo que no producen metano, tienen emisiones significativamente más bajas que la carne de vacuno y cordero.",
+        "source" : "https://www.visualcapitalist.com/visualising-the-greenhouse-gas-impact-of-each-food/"
+        }, 
+
+        {"food_name_en" : "olive oil",
+        "food_name_es" : "aceite de oliva",
+        "carbon_footprint" : "6",
+        "produced_per_footprint" : "1 kg"
+        }, 
+
+        {"food_name_en" : "fish",
+        "food_name_es" : "pescado",
+        "carbon_footprint" : "5",
+        "produced_per_footprint" : "1 kg"
+        }, 
+
+        {"food_name_en" : "eggs",
+        "food_name_es" : "huevos",
+        "carbon_footprint" : "4.5",
+        "produced_per_footprint" : "1 kg"
+        }, 
+
+        {"food_name_en" : "rice",
+        "food_name_es" : "arroz",
+        "carbon_footprint" : "4",
+        "produced_per_footprint" : "1 kg",
+        "comment_en" : "flooded rice produces methane, which dominates on-farm emissions.",
+        "comment_es" : "el arroz inundado produce metano, que domina las emisiones en las granjas.",
+        "source" : "https://www.visualcapitalist.com/visualising-the-greenhouse-gas-impact-of-each-food/"
+        }, 
+
+        {"food_name_en" : "cane sugar",
+        "food_name_es" : "caña de azúcar",
+        "carbon_footprint" : "3",
+        "produced_per_footprint" : "1 kg"
+        }, 
+
+        {"food_name_en" : "groundnuts",
+        "food_name_es" : "maní",
+        "alternative_name_es" : ["cacahuate"],
+        "carbon_footprint" : "2.5",
+        "produced_per_footprint" : "1 kg"
+        }, 
+
+        {"food_name_en" : "wheat",
+        "food_name_es" : "trigo",
+        "carbon_footprint" : "1.4",
+        "produced_per_footprint" : "1 kg"
+        }, 
+
+        {"food_name_en" : "rye",
+        "food_name_es" : "centeno",
+        "carbon_footprint" : "1.4",
+        "produced_per_footprint" : "1 kg"
+        }, 
+
+        {"food_name_en" : "tomato",
+        "food_name_es" : "tomate",
+        "carbon_footprint" : "1.4",
+        "produced_per_footprint" : "1 kg"
+        }, 
+
+        {"food_name_en" : "corn",
+        "food_name_es" : "maíz",
+        "carbon_footprint" : "1",
+        "produced_per_footprint" : "1 kg"
+        }, 
+
+        {"food_name_en" : "cassava",
+        "food_name_es" : "mandioca",
+        "carbon_footprint" : "1",
+        "produced_per_footprint" : "1 kg"
+        }, 
+
+        {"food_name_en" : "peas",
+        "food_name_es" : "chícharos",
+        "alternative_name_es" : ["guisantes", "porotos"],
+        "carbon_footprint" : "0.9",
+        "produced_per_footprint" : "1 kg"
+        }, 
+
+        {"food_name_en" : "banana",
+        "food_name_es" : "plátano",
+        "carbon_footprint" : "0.7",
+        "produced_per_footprint" : "1 kg"
+        }, 
+
+        {"food_name_en" : "carrot",
+        "food_name_es" : "zanahoria",
+        "carbon_footprint" : "0.4",
+        "produced_per_footprint" : "1 kg"
+        }, 
+
+        {"food_name_en" : "apples",
+        "food_name_es" : "manzanas",
+        "carbon_footprint" : "0.4",
+        "produced_per_footprint" : "1 kg"
+        }, 
+
+        {"food_name_en" : "nuts",
+        "food_name_es" : "nueces",
+        "carbon_footprint" : "0.3",
+        "produced_per_footprint" : "1 kg",
+        "comment_en" : "nuts have a negative land use change figure, because nut trees are currently replacing croplands; carbon is stored in the trees.",
+        "comment_es" : "las nueces tienen una cifra negativa de cambio de uso de la tierra, porque los árboles de nueces están reemplazando las tierras de cultivo; el carbono se almacena en los árboles.",
+        "source" : "https://www.visualcapitalist.com/visualising-the-greenhouse-gas-impact-of-each-food/"
+        }, 
+
+        {"food_name_en" : "orange",
+        "food_name_es" : "naranja",
+        "carbon_footprint" : "0.3",
+        "produced_per_footprint" : "1 kg"
+        },
+
+        {"food_name_en" : "lemon",
+        "food_name_es" : "limón",
+        "carbon_footprint" : "0.3",
+        "produced_per_footprint" : "1 kg"
+        },
+
+        {"food_name_en" : "lime",
+        "food_name_es" : "lima",
+        "carbon_footprint" : "0.3",
+        "produced_per_footprint" : "1 kg"
+        },
+
+        {"food_name_en" : "citron",
+        "food_name_es" : "cidra",
+        "carbon_footprint" : "0.3",
+        "produced_per_footprint" : "1 kg"
+        },
+
+        {"food_name_en" : "tangerine",
+        "food_name_es" : "mandarina",
+        "carbon_footprint" : "0.3",
+        "produced_per_footprint" : "1 kg"
+        },
+
+        {"food_name_en" : "pink grapefruit",
+        "food_name_es" : "toronja",
+        "carbon_footprint" : "0.3",
+        "produced_per_footprint" : "1 kg"
+        },
+
+        {"food_name_en" : "grapefruit",
+        "food_name_es" : "pomelo",
+        "carbon_footprint" : "0.3",
+        "produced_per_footprint" : "1 kg"
+        },
+
+        {"food_name_en" : "clementine",
+        "food_name_es" : "clementina",
+        "carbon_footprint" : "0.3",
+        "produced_per_footprint" : "1 kg"
+        },
+
+        {"food_name_en" : "carrots",
+        "food_name_es" : "zanahorias",
+        "carbon_footprint" : "0.4",
+        "produced_per_footprint" : "1 kg"
+        },
+
+        {"food_name_en" : "beet",
+        "food_name_es" : "betarraga",
+        "carbon_footprint" : "0.4",
+        "produced_per_footprint" : "1 kg"
+        },
+
+        {"food_name_en" : "radish",
+        "food_name_es" : "rábano",
+        "carbon_footprint" : "0.4",
+        "produced_per_footprint" : "1 kg"
+        },
+
+        {"food_name_en" : "spicy root",
+        "food_name_es" : "raíz picante",
+        "carbon_footprint" : "0.4",
+        "produced_per_footprint" : "1 kg"
+        },
+
+        {"food_name_en" : "beef",
+        "food_name_es" : "carne de vacuno",
+        "carbon_footprint" : "60",
+        "produced_per_footprint" : "1 kg",
+        "comment_en" : "Methane production from cows and land conversion for grazing and animal feed means beef from dedicated beef herds has a very high carbon footprint",
+        "comment_es" : "La producción de metano a partir de vacas y la conversión de tierras para pastoreo y alimentación animal significa que la carne de res de rebaños dedicados a la carne tiene una huella de carbono muy alta",
+        "source" : "https://www.visualcapitalist.com/visualising-the-greenhouse-gas-impact-of-each-food/"
+        },
+
+        {"food_name_en" : "poultry meat",
+        "food_name_es" : "pollo",
+        "alternative_name_es" : ["pavo", "pato", "gallina", "pechuga", "alita"],
+        "carbon_footprint" : "6",
+        "produced_per_footprint" : "1 kg"
+        },
+
+        {"food_name_en" : "potatoes",
+        "food_name_es" : "patatas",
+        "alternative_name_es" : ["papas"],
+        "carbon_footprint" : "2.9",
+        "produced_per_footprint" : "1 kg"
+        },
+
+        {"food_name_en" : "lentils",
+        "food_name_es" : "lentejas",
+        "carbon_footprint" : "0.9",
+        "produced_per_footprint" : "1 kg"
+        },
+
+        {"food_name_en" : "tofu",
+        "food_name_es" : "tofu",
+        "carbon_footprint" : "2.0",
+        "produced_per_footprint" : "1 kg"
+        },
+
+        {"food_name_en" : "peanut butter",
+        "food_name_es" : "mantequilla de maní",
+        "carbon_footprint" : "2.5",
+        "produced_per_footprint" : "1 kg"
+        },
+
+        {"food_name_en" : "canned tuna",
+        "food_name_es" : "tuna enlatada",
+        "carbon_footprint" : "6.1",
+        "produced_per_footprint" : "1 kg"
+        },
+
+        {"food_name_en" : "beef patty",
+        "food_name_es" : "hamburguesa de vacuno",
+        "carbon_footprint" : "32.74",
+        "energy_usage" : "100.88",
+        "land_usage": "33.63",
+        "water_usage": "193.27",
+        "produced_per_footprint" : "1 kg"
+        }
+    ]
+}
+
+

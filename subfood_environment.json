@@ -1,0 +1,74 @@
+{
+    "products": [
+        {"food_name_en" : "soy milk",
+        "food_name_es" : "leche de soya",
+        "carbon_footprint" : "1",
+        "water_usage" : "28",
+        "produced_per_footprint" : "1 lt",
+        "land_usage" : "0.7",
+        "replaces_en" : "milk",
+        "replaces_es" : "leche"
+        }, 
+
+
+        {"food_name_en" : "palm oil",
+        "food_name_es" : "aceite de palma",
+        "carbon_footprint" : "8",
+        "produced_per_footprint" : "1 lt",
+        "replaces_en" : "olive oil",
+        "replaces_es" : "aceite de oliva"
+        }, 
+
+        {"food_name_en" : "dairy beef",
+        "food_name_es" : "carne de vaca lechera",
+        "carbon_footprint" : "21",
+        "produced_per_footprint" : "1 kg",
+        "replaces_en" : "beef",
+        "replaces_es" : "carne de vacuno",
+        "comment_en" : "dairy co-products means beef from dairy herds has a lower carbon footprint than dedicated beef herds.",
+        "comment_es" : "Los coproductos lácteos significan que la carne de res de rebaños lecheros tiene una huella de carbono menor que la de los rebaños dedicados a la carne.",
+        "source" : "https://www.visualcapitalist.com/visualising-the-greenhouse-gas-impact-of-each-food/"
+        }, 
+
+        {"food_name_en" : "almond milk",
+        "food_name_es" : "leche de almendras",
+        "carbon_footprint" : "0.7",
+        "water_usage" : "371",
+        "produced_per_footprint" : "1 lt",
+        "replaces_en" : "milk",
+        "replaces_es" : "leche"
+        }, 
+
+        {"food_name_en" : "rice milk",
+        "food_name_es" : "leche de arroz",
+        "carbon_footprint" : "1.2",
+        "water_usage" : "270",
+        "produced_per_footprint" : "1 lt",
+        "land_usage" : "0.3",
+        "replaces_en" : "milk",
+        "replaces_es" : "leche"
+        }, 
+
+        {"food_name_en" : "oat milk",
+        "food_name_es" : "leche de avena",
+        "carbon_footprint" : "0.9",
+        "water_usage" : "48",
+        "produced_per_footprint" : "1 lt",
+        "land_usage" : "0.8",
+        "replaces_en" : "milk",
+        "replaces_es" : "leche"
+        }, 
+
+        {"food_name_en" : "beyond meat",
+        "carbon_footprint" : "3.54",
+        "water_usage" : "193.27",
+        "energy_usage" : "53.98",
+        "produced_per_footprint" : "1 lt",
+        "land_usage" : "2.65",
+        "replaces_en" : "beef",
+        "replaces_es" : "carne de vacuno"
+        }
+
+
+    ]
+}
